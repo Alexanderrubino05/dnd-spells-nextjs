@@ -4,7 +4,6 @@ The project contains information about 50 different spells from D&D.
 
 The data comes from this API: https://open5e.com
 
-![alt text](http://url/to/img.png)
 ![Uploading Screenshot 2023-10-10 at 14.10.38.png…]()
 
 ## Getting Started
