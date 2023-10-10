@@ -34,7 +34,7 @@ export default async function Home({ searchParams }) {
   }
 
   return (
-    <main className="px-20 py-10">
+    <main className="px-4 md:px-20 py-10">
       <div className="flex flex-col gap-y-8 pb-6">
         <FilterComponent spell_class={searchParams.class || ""} />
 
