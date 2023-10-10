@@ -1,4 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+The project contains information about 50 different spells from D&D. 
+The data comes from this API: https://open5e.com
+![Uploading Screenshot 2023-10-10 at 14.10.38.png…]()
 
 ## Getting Started
 
